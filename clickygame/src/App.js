@@ -54,7 +54,7 @@ function shufflePokemon(array) {
       this.setState({
         currentScore: 0,
         topScore: this.state.topScore,
-        shout: "NOOO Pikachu!!",
+        shout: "NOOO Pikachu!! Try again!",
         clicked: []
       });
       this.handleShuffle();
