@@ -1,5 +1,5 @@
 import React from "react";
-import "./FriendCard.css";
+import "./style.css";
 
 const FriendCard = props => (
   <div 
