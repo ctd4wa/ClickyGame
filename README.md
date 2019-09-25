@@ -6,6 +6,8 @@ Pokemon Clicky Game is a React-based web application that is a game of memory. T
 
 [Play the game here!](https://clickypokeygame.herokuapp.com/)
 
+![Clicky-Game](https://github.com/ctd4wa/ClickyGame/blob/master/images/Screenshot.JPG?raw=true)
+
 ## Technologies Used
   - React
   - Bootstrap
